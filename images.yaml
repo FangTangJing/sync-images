@@ -50,3 +50,16 @@ docker.io/longhornio/csi-resizer:v1.12.0: registry.cn-shanghai.aliyuncs.com/jifa
 docker.io/longhornio/csi-snapshotter:v7.0.2-20241007: registry.cn-shanghai.aliyuncs.com/jifa_middleware/csi-snapshotter
 docker.io/longhornio/livenessprobe:v2.14.0: registry.cn-shanghai.aliyuncs.com/jifa_middleware/livenessprobe
 docker.io/longhornio/longhorn-ui:v1.7.2: registry.cn-shanghai.aliyuncs.com/jifa_middleware/longhorn-ui
+docker.io/goharbor/nginx-photon:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/nginx-photon
+docker.io/goharbor/harbor-portal:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/harbor-portal
+docker.io/goharbor/harbor-core:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/harbor-core
+docker.io/goharbor/harbor-jobservice:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/harbor-jobservice
+docker.io/goharbor/registry-photon:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/registry-photon
+docker.io/goharbor/harbor-registryctl:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/harbor-registryctl
+docker.io/goharbor/trivy-adapter-photon:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/trivy-adapter-photon
+docker.io/goharbor/harbor-db:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/harbor-db
+docker.io/goharbor/redis-photon:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/redis-photon
+docker.io/goharbor/harbor-exporter:v2.12.0 registry.cn-shanghai.aliyuncs.com/devops_infra/harbor-exporter
+
+
+
