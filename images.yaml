@@ -59,7 +59,6 @@ docker.io/goharbor/harbor-registryctl:v2.12.0: registry.cn-shanghai.aliyuncs.com
 docker.io/goharbor/trivy-adapter-photon:v2.12.0: registry.cn-shanghai.aliyuncs.com/devops_infra/trivy-adapter-photon
 docker.io/goharbor/harbor-db:v2.12.0: registry.cn-shanghai.aliyuncs.com/devops_infra/harbor-db
 docker.io/goharbor/redis-photon:v2.12.0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-photon
-docker.io/goharbor/harbor-exporter:v2.12.0: registry.cn-shanghai.aliyuncs.com/devops_infra/harbor-exporter
-
+docker.io/redis:7.4.1: registry.cn-shanghai.aliyuncs.com/devops_infra/redis
 
 
