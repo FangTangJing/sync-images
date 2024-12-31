@@ -61,4 +61,4 @@ docker.io/goharbor/harbor-db:v2.12.0: registry.cn-shanghai.aliyuncs.com/devops_i
 docker.io/goharbor/redis-photon:v2.12.0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-photon
 docker.io/redis:7.4.1: registry.cn-shanghai.aliyuncs.com/devops_infra/redis
 
-docker.io/kubeoperator/kubepi-server:1.6.5: registry.cn-shanghai.aliyuncs.com/devops_infra/kubeoperator/kubepi-server
+docker.io/kubeoperator/kubepi-server:1.6.5: registry.cn-shanghai.aliyuncs.com/devops_infra/kubepi-server
