@@ -60,4 +60,4 @@ docker.io/goharbor/trivy-adapter-photon:v2.12.0: registry.cn-shanghai.aliyuncs.c
 docker.io/goharbor/harbor-db:v2.12.0: registry.cn-shanghai.aliyuncs.com/devops_infra/harbor-db
 docker.io/goharbor/redis-photon:v2.12.0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-photon
 docker.io/redis:7.4.1: registry.cn-shanghai.aliyuncs.com/devops_infra/redis
-docker.io/kubeoperator/kubepi-server:v1.6.5: registry.cn-shanghai.aliyuncs.com/devops_infra/kubepi-server
+docker.io/1panel/kubepi:v1.9.0: registry.cn-shanghai.aliyuncs.com/devops_infra/kubepi
