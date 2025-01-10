@@ -69,3 +69,4 @@ registry.opensource.zalan.do/acid/pgbouncer:master-32: registry.cn-shanghai.aliy
 ghcr.io/zalando/spilo-17:4.0-p2: registry.cn-shanghai.aliyuncs.com/devops_infra/spilo-17
 ghcr.io/zalando/postgres-operator/logical-backup:v1.14.0: registry.cn-shanghai.aliyuncs.com/devops_infra/logical-backup
 ghcr.io/zalando/postgres-operator-ui:v1.14.0: registry.cn-shanghai.aliyuncs.com/devops_infra/postgres-operator-ui
+docker.io/minio/minio:RELEASE.2024-12-18T13-15-44Z: registry.cn-shanghai.aliyuncs.com/devops_infra/minio
