@@ -1,5 +1,5 @@
-docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2: registry.cn-shanghai.aliyuncs.com/devops_infra/flannel-cni-plugin
-docker.io/flannel/flannel:/v0.25.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/flannel
+docker.io/flannel/flannel-cni-plugin:v1.6.0-flannel1: registry.cn-shanghai.aliyuncs.com/devops_infra/flannel-cni-plugin
+docker.io/flannel/flannel:/v0.26.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/flannel
 docker.io/calico/kube-controllers:/v3.28.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/kube-controllers
 docker.io/calico/node:/v3.28.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/node
 docker.io/calico/cni:/v3.28.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/cni
