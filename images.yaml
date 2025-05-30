@@ -81,4 +81,5 @@ quay.io/jetstack/cert-manager-controller:v1.17.2: registry.cn-shanghai.aliyuncs.
 quay.io/jetstack/cert-manager-acmesolver:v1.17.2: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-acmesolver:v1.17.2
 quay.io/jetstack/cert-manager-webhook:v1.17.2: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-webhook:v1.17.2
 ghcr.io/devmachine-fr/cert-manager-alidns-webhook/cert-manager-alidns-webhook:0.3.1: registry.cn-shanghai.aliyuncs.com/devops_infra/alidns-webhook:0.3.1
-docker.io/kubeop/jenkins:/2.\d$.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/jenkins
+docker.io/kubeop/jenkins:/2.492.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/jenkins
+docker.io/kubeop/jenkins:/2.504.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/jenkins
