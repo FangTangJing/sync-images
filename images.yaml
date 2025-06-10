@@ -81,3 +81,5 @@ quay.io/jetstack/cert-manager-webhook:v1.17.2: registry.cn-shanghai.aliyuncs.com
 ghcr.io/devmachine-fr/cert-manager-alidns-webhook/cert-manager-alidns-webhook:0.3.1: registry.cn-shanghai.aliyuncs.com/devops_infra/alidns-webhook:0.3.1
 docker.io/kubeop/jenkins:/2.492.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/jenkins
 docker.io/kubeop/jenkins:/2.504.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/jenkins
+docker.io/apache/iotdb:/2.0.\d/-datanode: registry.cn-shanghai.aliyuncs.com/devops_infra/iotdb
+docker.io/apache/iotdb:/2.0.\d/-confignode: registry.cn-shanghai.aliyuncs.com/devops_infra/iotdb
