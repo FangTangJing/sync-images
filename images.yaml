@@ -86,3 +86,5 @@ docker.io/apache/iotdb:/2.0.\d-confignode$/: registry.cn-shanghai.aliyuncs.com/d
 docker.io/elastic/elasticsearch:/7.\d$.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/elasticsearch
 docker.io/elastic/filebeat:/7.\d$.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/filebeat
 docker.io/elastic/kibana:/7.\d$.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/kibana
+docker.io/apache/kafka:/3.\d$.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/kafka
+docker.io/zookeeper:/3.\d$.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/zookeeper
