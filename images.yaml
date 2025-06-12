@@ -88,3 +88,4 @@ docker.io/elastic/filebeat:/7.17.\d$/: registry.cn-shanghai.aliyuncs.com/devops_
 docker.io/elastic/kibana:/7.17.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/kibana
 docker.io/apache/kafka:/3.9.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/kafka
 docker.io/zookeeper:/3.9.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/zookeeper
+docker.io/logstash:/7.17.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/logstash
