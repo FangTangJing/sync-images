@@ -83,8 +83,8 @@ docker.io/kubeop/jenkins:/2.492.\d$/: registry.cn-shanghai.aliyuncs.com/devops_i
 docker.io/kubeop/jenkins:/2.504.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/jenkins
 docker.io/apache/iotdb:/2.0.\d-datanode$/: registry.cn-shanghai.aliyuncs.com/devops_infra/iotdb
 docker.io/apache/iotdb:/2.0.\d-confignode$/: registry.cn-shanghai.aliyuncs.com/devops_infra/iotdb
-docker.io/elastic/elasticsearch:/7.10.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/elasticsearch
-docker.io/elastic/filebeat:/7.10.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/filebeat
-docker.io/elastic/kibana:/7.10.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/kibana
+docker.io/elastic/elasticsearch:/7.17.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/elasticsearch
+docker.io/elastic/filebeat:/7.17.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/filebeat
+docker.io/elastic/kibana:/7.17.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/kibana
 docker.io/apache/kafka:/3.9.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/kafka
 docker.io/zookeeper:/3.9.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/zookeeper
