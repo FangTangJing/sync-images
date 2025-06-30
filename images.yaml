@@ -74,10 +74,10 @@
 #docker.io/netboxcommunity/netbox:v4.3-3.3.0: registry.cn-shanghai.aliyuncs.com/devops_infra/netbox
 #docker.io/postgres:17-alpine: registry.cn-shanghai.aliyuncs.com/devops_infra/postgres
 #docker.io/valkey/valkey:8.1-alpine: registry.cn-shanghai.aliyuncs.com/devops_infra/valkey
-#quay.io/jetstack/cert-manager-cainjector:v1.17.2: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-cainjector
-#quay.io/jetstack/cert-manager-controller:v1.17.2: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-controller
-#quay.io/jetstack/cert-manager-acmesolver:v1.17.2: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-acmesolver
-#quay.io/jetstack/cert-manager-webhook:v1.17.2: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-webhook
+quay.io/jetstack/cert-manager-cainjector:v1.18.0: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-cainjector
+quay.io/jetstack/cert-manager-controller:v1.18.0: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-controller
+quay.io/jetstack/cert-manager-acmesolver:v1.18.0: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-acmesolver
+quay.io/jetstack/cert-manager-webhook:v1.18.0: registry.cn-shanghai.aliyuncs.com/devops_infra/cert-manager-webhook
 #ghcr.io/devmachine-fr/cert-manager-alidns-webhook/cert-manager-alidns-webhook:0.3.1: registry.cn-shanghai.aliyuncs.com/devops_infra/alidns-webhook
 #docker.io/kubeop/jenkins:/2.492.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/jenkins
 #docker.io/kubeop/jenkins:/2.504.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/jenkins
@@ -91,5 +91,5 @@
 #docker.io/logstash:/7.17.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/logstash
 #docker.io/kubeop/openjdk:/\d-jdk$/: registry.cn-shanghai.aliyuncs.com/devops_infra/openjdk
 #docker.io/kubeop/openjdk:/\d-jre$/: registry.cn-shanghai.aliyuncs.com/devops_infra/openjdk
-docker.io/bitnami/redis:8.0.2-debian-12-r3: registry.cn-shanghai.aliyuncs.com/devops_infra/redis
-docker.io/bitnami/redis-sentinel:8.0.2-debian-12-r2: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-sentinel
+#docker.io/bitnami/redis:8.0.2-debian-12-r3: registry.cn-shanghai.aliyuncs.com/devops_infra/redis
+#docker.io/bitnami/redis-sentinel:8.0.2-debian-12-r2: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-sentinel
