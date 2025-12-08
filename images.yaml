@@ -95,4 +95,5 @@ docker.io/apache/iotdb:/2.0.\d-standalone$/: registry.cn-shanghai.aliyuncs.com/d
 #docker.io/kubeop/openjdk:/\d-jre$/: registry.cn-shanghai.aliyuncs.com/devops_infra/openjdk
 #docker.io/bitnami/redis:8.0.2-debian-12-r3: registry.cn-shanghai.aliyuncs.com/devops_infra/redis
 #docker.io/bitnami/redis-sentinel:8.0.2-debian-12-r2: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-sentinel
-docker.io/envoyproxy/gateway:v1.6.1: registry.cn-shanghai.aliyuncs.com/devops_infra/envoyproxy
+docker.io/envoyproxy/gateway:v1.6.1: registry.cn-shanghai.aliyuncs.com/devops_infra/envoyproxy-gateway
+docker.io/envoyproxy/ratelimit:99d85510: registry.cn-shanghai.aliyuncs.com/devops_infra/envoyproxy-ratelimit
