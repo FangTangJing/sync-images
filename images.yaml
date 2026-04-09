@@ -102,5 +102,5 @@ docker.io/bitnamilegacy/redis-cluster:/7.4.\d$/: registry.cn-shanghai.aliyuncs.c
 docker.io/bitnamilegacy/redis-cluster:/^7.4.\d-debian-12-r$/: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-cluster
 docker.io/bitnamilegacy/redis-cluster:8.2.1-debian-12-r0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-cluster
 docker.io/bitnamilegacy/redis-cluster:8.0.3-debian-12-r3: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-cluster
-
-
+docker.io/bitnamilegacy/redis-sentinel:8.2.1-debian-12-r0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-sentinel
+docker.io/bitnami/redis:8.2.1-debian-12-r0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis
