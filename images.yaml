@@ -19,11 +19,11 @@
 #registry.k8s.io/ingress-nginx/controller:v1.11.2: registry.cn-shanghai.aliyuncs.com/devops_infra/ingress-nginx-controller
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3: registry.cn-shanghai.aliyuncs.com/devops_infra/kube-webhook-certgen
 #nvcr.io/nvidia/k8s-device-plugin:/v0.16.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/k8s-device-plugin
-docker.io/victoriametrics/vmstorage:/^v1.145.\d-cluster$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vmstorage
-docker.io/victoriametrics/vmselect:/^v1.145.\d-cluster$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vmselect
-docker.io/victoriametrics/vminsert:/^v1.145.\d-cluster$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vminsert
-docker.io/victoriametrics/vmalert:/^v1.145.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vmalert
-docker.io/victoriametrics/vmagent:/^v1.145.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vmagent
+#docker.io/victoriametrics/vmstorage:/^v1.145.\d-cluster$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vmstorage
+#docker.io/victoriametrics/vmselect:/^v1.145.\d-cluster$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vmselect
+#docker.io/victoriametrics/vminsert:/^v1.145.\d-cluster$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vminsert
+#docker.io/victoriametrics/vmalert:/^v1.145.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vmalert
+#docker.io/victoriametrics/vmagent:/^v1.145.\d$/: registry.cn-shanghai.aliyuncs.com/devops_infra/vmagent
 #quay.io/prometheus/blackbox-exporter:v0.25.0: registry.cn-shanghai.aliyuncs.com/devops_infra/blackbox-exporter
 #ghcr.io/jimmidyson/configmap-reload:v0.14.0: registry.cn-shanghai.aliyuncs.com/devops_infra/configmap-reload
 #quay.io/brancz/kube-rbac-proxy:v0.18.2: registry.cn-shanghai.aliyuncs.com/devops_infra/kube-rbac-proxy
@@ -104,3 +104,8 @@ docker.io/victoriametrics/vmagent:/^v1.145.\d$/: registry.cn-shanghai.aliyuncs.c
 #docker.io/bitnamilegacy/redis-cluster:8.0.3-debian-12-r3: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-cluster
 #docker.io/bitnamilegacy/redis-sentinel:8.2.1-debian-12-r0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-sentinel
 #docker.io/bitnami/redis:8.2.1-debian-12-r0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis
+
+docker.io/oceanbase/obdiag:latest: registry.cn-shanghai.aliyuncs.com/devops_infra/obdiag
+docker.io/oceanbase/obproxy-ce:4.3.5.0-3: registry.cn-shanghai.aliyuncs.com/devops_infra/obproxy-ce
+quay.io/oceanbase/ob-operator:2.3.4: registry.cn-shanghai.aliyuncs.com/devops_infra/ob-operator
+quay.io/oceanbase/sql-analyzer:0.1.0: registry.cn-shanghai.aliyuncs.com/devops_infra/sql-analyzer
