@@ -30,7 +30,7 @@ jobs:
           version: latest
           proc: 6
         env:
-          USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
-          PASSWORD: ${{ secrets.DOCKERHUB_TOKEN }}
+#          USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
+#          PASSWORD: ${{ secrets.DOCKERHUB_TOKEN }}
           ACR_USERNAME: ${{ secrets.ACR_USERNAME }}
           ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
