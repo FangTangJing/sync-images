@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Sync Images
-        uses: hhyasdf/image-sync-action@v1.2
+        uses: hhyasdf/image-sync-action@v1.1
         with:
           auth_file: ./auth.yaml
           images_file: ./images.yaml
