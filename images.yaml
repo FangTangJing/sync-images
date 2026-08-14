@@ -109,3 +109,4 @@ docker.io/oceanbase/obdiag:latest: registry.cn-shanghai.aliyuncs.com/devops_infr
 docker.io/oceanbase/obproxy-ce:4.3.5.0-3: registry.cn-shanghai.aliyuncs.com/devops_infra/obproxy-ce
 quay.io/oceanbase/ob-operator:2.3.4: registry.cn-shanghai.aliyuncs.com/devops_infra/ob-operator
 quay.io/oceanbase/sql-analyzer:0.1.0: registry.cn-shanghai.aliyuncs.com/devops_infra/sql-analyzer
+docker.io/tonistiigi/binfmt:latest: registry.cn-shanghai.aliyuncs.com/devops_infra/binfmt
