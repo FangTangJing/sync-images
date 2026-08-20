@@ -36,5 +36,5 @@ jobs:
             # ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
             # SWR_USERNAME: ${{ secrets.SWR_USERNAME }}
             # SWR_PASSWORD: ${{ secrets.SWR_PASSWORD }}
-            TCR_USERNAME: ${{ secrets.TCR_USERNAME }}
-            TCR_PASSWORD: ${{ secrets.TCR_PASSWORD }}
+            USERNAME: ${{ secrets.TCR_USERNAME }}
+            PASSWORD: ${{ secrets.TCR_PASSWORD }}
