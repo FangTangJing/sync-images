@@ -32,5 +32,7 @@ jobs:
         env:
 #          USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
 #          PASSWORD: ${{ secrets.DOCKERHUB_TOKEN }}
-          ACR_USERNAME: ${{ secrets.ACR_USERNAME }}
-          ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
+            # ACR_USERNAME: ${{ secrets.ACR_USERNAME }}
+            # ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
+            SWR_USERNAME: ${{ secrets.SWR_USERNAME }}
+            SWR_PASSWORD: ${{ secrets.SWR_PASSWORD }}
