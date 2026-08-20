@@ -29,12 +29,14 @@ jobs:
           images_file: ./images.yaml
           version: latest
           proc: 6
-        env:
+          username: ${{ secrets.TCR_USERNAME }}
+          password: ${{ secrets.TCR_PASSWORD }}
+        # env:
 #          USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
 #          PASSWORD: ${{ secrets.DOCKERHUB_TOKEN }}
             # ACR_USERNAME: ${{ secrets.ACR_USERNAME }}
             # ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
             # SWR_USERNAME: ${{ secrets.SWR_USERNAME }}
             # SWR_PASSWORD: ${{ secrets.SWR_PASSWORD }}
-            USERNAME: ${{ secrets.TCR_USERNAME }}
-            PASSWORD: ${{ secrets.TCR_PASSWORD }}
+            # USERNAME: ${{ secrets.TCR_USERNAME }}
+            # PASSWORD: ${{ secrets.TCR_PASSWORD }}
