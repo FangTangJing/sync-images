@@ -104,7 +104,6 @@
 #docker.io/bitnamilegacy/redis-cluster:8.0.3-debian-12-r3: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-cluster
 #docker.io/bitnamilegacy/redis-sentinel:8.2.1-debian-12-r0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis-sentinel
 #docker.io/bitnami/redis:8.2.1-debian-12-r0: registry.cn-shanghai.aliyuncs.com/devops_infra/redis
-
 docker.io/oceanbase/obdiag:latest: registry.cn-shanghai.aliyuncs.com/devops_infra/obdiag
 docker.io/oceanbase/obproxy-ce:4.3.5.0-3: registry.cn-shanghai.aliyuncs.com/devops_infra/obproxy-ce
 quay.io/oceanbase/ob-operator:2.3.4: registry.cn-shanghai.aliyuncs.com/devops_infra/ob-operator
