@@ -8,5 +8,5 @@
 #   username: ${SWR_USERNAME}
 #   password: ${SWR_PASSWORD}
 ccr.ccs.tencentyun.com:
-  username: ${{ secrets.TCR_USERNAME }}
-  password: ${{ secrets.TCR_PASSWORD }}
+  username: ${TCR_USERNAME}
+  password: ${TCR_PASSWORD}
