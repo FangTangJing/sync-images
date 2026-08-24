@@ -23,7 +23,7 @@ permissions:
 
 jobs:
   sync:
-    name: Sync Images to TCR
+    name: Sync Images to ACR
     runs-on: ubuntu-latest
 
     env:
@@ -45,6 +45,8 @@ jobs:
       - name: Sync Images
         uses: hhyasdf/image-sync-action@v1.1
         with:
+          provenance: false
+          sbom: false
           auth_file: ./auth.yaml
           images_file: ./images.yaml
           version: latest
