@@ -7,6 +7,6 @@
 # swr.cn-east-3.myhuaweicloud.com:
 #   username: ${SWR_USERNAME}
 #   password: ${SWR_PASSWORD}
-ccr.ccs.tencentyun.com:
+hkccr.ccs.tencentyun.com:
   username: ${TCR_USERNAME}
   password: ${TCR_PASSWORD}
