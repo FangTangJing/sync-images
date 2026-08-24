@@ -1,12 +1,12 @@
 #docker.io:
 #  username: ${USERNAME}
 #  password: ${PASSWORD}
-# registry.cn-shanghai.aliyuncs.com:
-#   username: ${ACR_USERNAME}
-#   password: ${ACR_PASSWORD}
+registry.cn-shanghai.aliyuncs.com:
+  username: ${ACR_USERNAME}
+  password: ${ACR_PASSWORD}
 # swr.cn-east-3.myhuaweicloud.com:
 #   username: ${SWR_USERNAME}
 #   password: ${SWR_PASSWORD}
-hkccr.ccs.tencentyun.com:
-  username: ${TCR_USERNAME}
-  password: ${TCR_PASSWORD}
+# hkccr.ccs.tencentyun.com:
+#   username: ${TCR_USERNAME}
+#   password: ${TCR_PASSWORD}

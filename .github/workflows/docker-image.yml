@@ -27,8 +27,8 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      TCR_USERNAME: ${{ secrets.TCR_USERNAME }}
-      TCR_PASSWORD: ${{ secrets.TCR_PASSWORD }}
+      TCR_USERNAME: ${{ secrets.ACR_USERNAME }}
+      TCR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
 
     steps:
       - name: Checkout
