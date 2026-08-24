@@ -114,4 +114,5 @@
 # docker.io/oceanbase/oceanbase-helper:2.3.4: hkccr.ccs.tencentyun.com/devops_infra/oceanbase-helper
 # docker.io/prom/alertmanager:v0.27.0: hkccr.ccs.tencentyun.com/devops_infra/alertmanager
 # docker.io/prom/prometheus:v2.51.1: hkccr.ccs.tencentyun.com/devops_infra/prometheus
-quay.io/oceanbase/sql-analyzer:0.1.0: registry.cn-shanghai.aliyuncs.com/devops_infra/sql-analyzer
+# quay.io/oceanbase/sql-analyzer:0.1.0: registry.cn-shanghai.aliyuncs.com/devops_infra/sql-analyzer
+docker.io/mysql:oraclelinux9: registry.cn-shanghai.aliyuncs.com/devops_infra/mysql
