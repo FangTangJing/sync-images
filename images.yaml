@@ -117,3 +117,4 @@
 # quay.io/oceanbase/sql-analyzer:0.1.0: registry.cn-shanghai.aliyuncs.com/devops_infra/sql-analyzer
 
 docker.io/mysql:oraclelinux9: registry.cn-shanghai.aliyuncs.com/devops_infra/mysql
+docker.io/postgres:18.6-alpine3.23: registry.cn-shanghai.aliyuncs.com/devops_infra/postgres
