@@ -127,3 +127,4 @@ docker.io/apache/dolphinscheduler-worker:3.4.2: registry.cn-shanghai.aliyuncs.co
 docker.io/apache/dolphinscheduler-tools:3.4.2: registry.cn-shanghai.aliyuncs.com/devops_infra/dolphinscheduler-tools
 docker.io/apache/dolphinscheduler-alert-server:3.4.2: registry.cn-shanghai.aliyuncs.com/devops_infra/dolphinscheduler-alert-server
 docker.io/apache/dolphinscheduler-api:3.4.2: registry.cn-shanghai.aliyuncs.com/devops_infra/dolphinscheduler-api
+docker.io/rust:1.99.0-slim-trixie: registry.cn-shanghai.aliyuncs.com/devops_infra/rust:1.99.0-slim-trixie
